@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 Changing the order of the authors now
+Here are now some author affiliations
 # so cool!
 # writing introduction section
 # use reference in introduction
